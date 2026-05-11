@@ -3,3 +3,5 @@ __MACOSX/
 *.swp
 .obsidian/workspace*
 .obsidian/cache
+# Icon must end with two \r
+Icon
